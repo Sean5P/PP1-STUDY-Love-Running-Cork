@@ -168,3 +168,7 @@ hr {
 .right-about-heading p {
     text-align: right;
 }
+
+#test {
+    text-align: center;
+}
